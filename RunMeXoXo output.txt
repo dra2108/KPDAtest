@@ -1,0 +1,47 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\dabramskiehn>cd C:\Users\dabramskiehn\Documents\GitHub\KPDAtest
+
+C:\Users\dabramskiehn\Documents\GitHub\KPDAtest>python RunMeXoXo.py
+Hi Dario!  Happy Valentine's Day.
+How are you doing?Great!
+I'm glad you're Great!.  Me too!
+Do you want to see the awesome card I made you?!Maaaaybe..... YES!
+Great! I'm gonna need some help though. I dozed off as I was writing, and I forg
+ot a few words. I need your help filling them in.
+Gimme a plural noun.horses
+Name a party occasion.festivus
+And a past tense verb.bamboozled
+Adjective.adroitly
+Type of animal, plural.murder of crows
+Emotion.contemplative
+Type of clothing.jorts
+Adjective.foolish
+Celebrity.bernie sanders
+Another celebrity.marvin gaye
+Animal.goose
+Unit of measurement, plural.meters
+Past tense verb.wanted
+Noun.coffee
+Type of party or event.autumnal nakedness
+Beverage.beeeeeeeeeeeeeeeer
+Verb ending in -ing. Capitalized, please.Jumping
+Noun, also capitalized.Chair
+Body part.nose
+Another body part.feet
+Nickname.moneypenny
+Thanks a lot!  That oughtta do the trick.  Ready for your message?Well,I dunno a
+bout that -- my words could be misconstrued by a tricky python script... but I g
+uess soooooooooo...
+One Saturday morning many horses ago, I went to a festivus party hoping to meet
+some nice murder of crows .  And there you were in your fancy jorts, more foolis
+h than bernie sanders and more fascinating than marvin gaye--although, I admit,
+I didn't realize it at the time. In contrast, you thought I was as beautiful as
+a goose , and you spent several meters  of time constructing a message that want
+ed the coffee of flirtation and friendliness. It worked! We went to that Georgia
+ O'Keeffe autumnal nakedness at the De Young and sipped some beeeeeeeeeeeeeeeer
+at the Jumping  Chair Cafe.  Honestly, from then on I've been nose over feet. Ha
+ppy Valentine's Day, moneypenny!
+
+C:\Users\dabramskiehn\Documents\GitHub\KPDAtest>
